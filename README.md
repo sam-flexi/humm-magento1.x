@@ -17,7 +17,7 @@ To deploy the plugin, clone this repo, and copy the following plugin files and f
 Once copied - you should be able to see the Humm plugin loaded in magento (note this may require a cache flush/site reload)
 
 Please find more details from 
-http://docs.shophumm.com.au/platforms/magento_1/  (for Australia)
+https://docs.shophumm.com.au/ecommerce/magento_2/  (for Australia)
 
 ## Varnish cache exclusions
 
